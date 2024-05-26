@@ -28,7 +28,7 @@ HTML & CSS
 - [Chrome](https://www.google.com/chrome/thank-you.html?brand=JJTC&statcb=1&installdataindex=empty&defaultbrowser=0#)
 
 ## HOME PAGE 
-https://github.com/Rishanmv/ZeroBites-Food-Delivery-App/assets/167636829/b6700b01-8b16-4045-903e-d4fa12ace2a0
+(https://github.com/Rishanmv/ZeroBites-Food-Delivery-App/assets/167636829/b6700b01-8b16-4045-903e-d4fa12ace2a0)
 
 
 
